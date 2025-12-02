@@ -1,4 +1,5 @@
-[	{
+details = `[
+		{
 		"filter": "Available",
 		"img": "./assets/images/available/bosch toolkit.jpg",
 		"name": "Bosch tool kit",
@@ -268,4 +269,4 @@
 		"Rating": 3,
 		"btn" : "blue"
 	}
-]
+]`;
