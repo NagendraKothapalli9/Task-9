@@ -1,0 +1,41 @@
+body {
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      font-weight: 400;
+      margin: 0;
+      padding: 0;
+    }
+
+ .swiper {
+      width: 95%;
+      height: auto;
+    }
+ .card{
+    transition: 2s;
+ }
+
+ .card:hover {
+    transform: rotate(7deg);
+ }
+
+.bi-star{
+    color: black;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  color:white ;
+  width: 30px;
+  height: 40px;
+  background-color: coral;
+  border-radius: 30px;
+}
+:root {
+    --swiper-navigation-size: 15px;
+}
+.swiper-button-next{
+    right: var(--swiper-navigation-sides-offset, 0px);
+   }
+.swiper-button-prev {
+    left: var(--swiper-navigation-sides-offset, 0px);
+}

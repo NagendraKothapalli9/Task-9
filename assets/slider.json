@@ -1,0 +1,271 @@
+[	{
+		"filter": "Available",
+		"img": "./assets/images/available/bosch toolkit.jpg",
+		"name": "Bosch tool kit",
+		"price": 1000,
+		"discount": "30 %off",
+		"Rating": 6,
+		"btn" : "green"
+	},
+	{
+		"filter": "Available",
+		"img": "./assets/images/available/cooker.jpg",
+		"name": "Hawkins cooker",
+		"price": 1000,
+		"discount": "20 %off",
+		"Rating": 3,
+		"btn" : "green"
+	},
+	{
+		"filter": "Available",
+		"img": "./assets/images/available/cooler.jpg",
+		"name": "Cooler",
+		"price": 1400,
+		"discount": "40 %off",
+		"Rating": 4,
+		"btn" : "green"
+	},
+	{
+		"filter": "Available",
+		"img": "./assets/images/available/cooler1.jpg",
+		"name": "Cooler",
+		"price": 1200,
+		"discount": "20 %off",
+		"Rating": 3,
+		"btn" : "green"
+	},
+	{
+		"filter": "Available",
+		"img": "./assets/images/available/godrej lock.webp",
+		"name": "Godrej lock",
+		"price": 1000,
+		"discount": "30 %off",
+		"Rating": 4,
+		"btn" : "green"
+	},
+	{
+		"filter": "Available",
+		"img": "./assets/images/available/mobile.jpg",
+		"name": "Iqoo Z10",
+		"price": 10000,
+		"discount": "20 %off",
+		"Rating": 3.5,
+		"btn" : "green"
+	},
+	{
+		"filter": "Available",
+		"img": "./assets/images/available/mobile2.jpg",
+		"name": "Redmi A4",
+		"price": 10000,
+		"discount": "30 %off",
+		"Rating": 3.7,
+		"btn" : "green"
+	},
+	{
+		"filter": "Available",
+		"img": "./assets/images/available/power cooker.jpg",
+		"name": "Pigeon cooker",
+		"price": 1000,
+		"discount": "20 %off",
+		"Rating": 3,
+		"btn" : "green"
+	},
+	{
+		"filter": "Available",
+		"img": "./assets/images/available/torchlight.jpg",
+		"name": "Torch light",
+		"price": 100,
+		"discount": "25 %off",
+		"Rating": 3,
+		"btn" : "green"
+	},
+	{
+		"filter": "Available",
+		"img": "./assets/images/available/watch.jpg",
+		"name": "Watch",
+		"price": 1000,
+		"discount": "23 %off",
+		"Rating": 3.2,
+		"btn" : "green"
+	},
+	{
+		"filter": "Missed",
+		"img": "./assets/images/missed/blue star ac.jpg",
+		"name": "Laptop",
+		"price": 50000,
+		"discount": "13 %off",
+		"Rating": 3.8,
+		"btn" : "red"
+	},
+	{
+		"filter": "Missed",
+		"img": "./assets/images/missed/cycle speed gear.jpg",
+		"name": "Cycle",
+		"price": 2000,
+		"discount": "13 %off",
+		"Rating": 3,
+		"btn" : "red"
+	},
+	{
+		"filter": "Missed",
+		"img": "./assets/images/missed/grinder.jpg",
+		"name": "Grinder",
+		"price": 1700,
+		"discount": "13 %off",
+		"Rating": 4,
+		"btn" : "red"
+	},
+	{
+		"filter": "Missed",
+		"img": "./assets/images/missed/mixer.jpg",
+		"name": "Mixer",
+		"price": 1000,
+		"discount": "33 %off",
+		"Rating": 3,
+		"btn" : "red"
+	},
+	{
+		"filter": "Missed",
+		"img": "./assets/images/missed/mobile1.jpg",
+		"name": "Galaxy M36",
+		"price": 10000,
+		"discount": "23 %off",
+		"Rating": 4.2,
+		"btn" : "red"
+	},
+	{
+		"filter": "Missed",
+		"img": "./assets/images/missed/mobile2.jpg",
+		"name": "Galaxy A56",
+		"price": 12000,
+		"discount": "13 %off",
+		"Rating": 3.9,
+		"btn" : "red"
+	},
+	{
+		"filter": "Missed",
+		"img": "./assets/images/missed/shirt.jpg",
+		"name": "Shirt",
+		"price": 1000,
+		"discount": "23 %off",
+		"Rating": 3,
+		"btn" : "red"
+	},
+	{
+		"filter": "Missed",
+		"img": "./assets/images/missed/shirt1.jpg",
+		"name": "Shirt",
+		"price": 900,
+		"discount": "23 %off",
+		"Rating": 3.5,
+		"btn" : "red"
+	},
+	{
+		"filter": "Missed",
+		"img": "./assets/images/missed/sunglasses.jpg",
+		"name": "Sunglasses",
+		"price": 100,
+		"discount": "23 %off",
+		"Rating": 3,
+		"btn" : "red"
+	},
+	{
+		"filter": "Missed",
+		"img": "./assets/images/missed/washing machine1.jpg",
+		"name": "washing machine",
+		"price": 40000,
+		"discount": "23 %off",
+		"Rating": 4.5,
+		"btn" : "red"
+	},
+	{
+		"filter": "Upcoming",
+		"img": "./assets/images/upcoming/bulb 9w combo.jpg",
+		"name": "Led bulb 9 watt",
+		"price": 300,
+		"discount": "3 %off",
+		"Rating": 3.5,
+		"btn" : "blue"
+	},
+	{
+		"filter": "Upcoming",
+		"img": "./assets/images/upcoming/dishwasher.jpg",
+		"name": "Dish washer",
+		"price": 50000,
+		"discount": "12 %off",
+		"Rating": 4.3,
+		"btn" : "blue"
+	},
+	{
+		"filter": "Upcoming",
+		"img": "./assets/images/upcoming/doorbell.jpg",
+		"name": "Door bell",
+		"price": 600,
+		"discount": "3 %off",
+		"Rating": 3,
+		"btn" : "blue"
+	},
+	{
+		"filter": "Upcoming",
+		"img": "./assets/images/upcoming/ogeneral split ac.jpg",
+		"name": "Iron box",
+		"price": 600,
+		"discount": "10 %off",
+		"Rating": 4.7,
+		"btn" : "blue"
+	},
+	{
+		"filter": "Upcoming",
+		"img": "./assets/images/upcoming/philips trimmer.jpg",
+		"name": "Philips trimmer",
+		"price": 1000,
+		"discount": "21 %off",
+		"Rating": 3.3,
+		"btn" : "blue"
+	},
+	{
+		"filter": "Upcoming",
+		"img": "./assets/images/upcoming/power socket.jpg",
+		"name": "Power socket",
+		"price": 500,
+		"discount": "23 %off",
+		"Rating": 3.3,
+		"btn" : "blue"
+	},
+	{
+		"filter": "Upcoming",
+		"img": "./assets/images/upcoming/sunglasses1.jpg",
+		"name": "Sunglasses",
+		"price": 100,
+		"discount": "3 %off",
+		"Rating": 3,
+		"btn" : "blue"
+	},
+	{
+		"filter": "Upcoming",
+		"img": "./assets/images/upcoming/vegetable chopper.jpg",
+		"name": "Chopper",
+		"price": 100,
+		"discount": "2 %off",
+		"Rating": 3.4,
+		"btn" : "blue"
+	},
+	{
+		"filter": "Upcoming",
+		"img": "./assets/images/upcoming/washing machine.jpg",
+		"name": "washing machine",
+		"price": 70000,
+		"discount": "23 %off",
+		"Rating": 5,
+		"btn" : "blue"
+	},
+	{
+		"filter": "Upcoming",
+		"img": "./assets/images/upcoming/watch1.jpg",
+		"name": "Sports watch",
+		"price": 1000,
+		"discount": "23 %off",
+		"Rating": 3,
+		"btn" : "blue"
+	}
+]
