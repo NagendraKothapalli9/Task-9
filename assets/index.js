@@ -2,7 +2,7 @@
      //jsondata fetch js and status function
     async function jsonData(status) {
       const response = await fetch('./assets/slider.json');
-      const  data =  response.json();
+      const  data = await response.json();
       console.log(data)
       let products = data.filter(pro => pro.filter === status)
       let card = '';
